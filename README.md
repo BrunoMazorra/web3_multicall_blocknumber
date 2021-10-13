@@ -16,7 +16,7 @@
 
 ## Description
 
-web3_multicall
+This is a fork of web3_multicall. It allows to make a multicall to at any particular block.
 
 ## Install
 
