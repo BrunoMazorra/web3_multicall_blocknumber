@@ -16,7 +16,7 @@
 
 ## Description
 
-This is a small fork of web3_multicall (https://pypi.org/project/web3-multicall/), all credit to the author Kristóf-Attila Kovács.  It allows to make a multicall to at any particular block.
+This is a small fork of web3_multicall (https://pypi.org/project/web3-multicall/), all credit to the author Kristóf-Attila Kovács.  This library will allow to make a multicall to at any particular block for a given network.
 
 ## Install
 
